@@ -7,26 +7,26 @@
 </p>
 
 ### 📊 Data Scientist & Backend Engineer
-I specialize in turning raw data into predictive insights and building intelligent systems that bridge the gap between software and the physical world.
+I specialize in turning raw data into predictive insights—specifically in **Supply Chain Optimization** (14.5% cost reduction) and building intelligent systems that bridge the gap between software and the physical world.
 
 ---
 
 ## 🚀 Top Projects
 
-### 🍕 [Food Delivery Forecasting](https://github.com/rohankar02/food-delivery-forecasting)
-**Machine Learning | Time Series | Python**
-* Built a demand forecasting engine to optimize restaurant supply chains.
-* Utilized XGBoost and LSTM models to predict order volume with high accuracy.
+### 📦 [Supply Chain Optimizer](https://github.com/rohankar02/Supply-Chain-Optimizer)
+**Operations Research | Forecasting | Python**
+* End-to-end Inventory Optimization & Demand Planning. Achieved **14.5% projected reduction** in annual holding costs for 50 SKUs.
+* Implemented lead-time sensitivity policies (40% adjustment) and EOQ replenishment triggers.
 
 ### 🛒 [E-Commerce-Analytics](https://github.com/rohankar02/E-Commerce-Analytics)
 **Data Analysis | Visualization | Dash/Plotly**
 * End-to-end customer behavior dashboard analyzing sales trends and product-market fit.
 * Engineered a pipeline to process over 100k+ transactions for real-time reporting.
 
-### 🔍 [SQL Customer Intelligence](https://github.com/rohankar02/sql-customer-intelligence)
-**Database Design | SQL | Advanced Analytics**
-* Complex SQL querying for RFM analysis and customer segmentation.
-* Designed modular schemas to handle large-scale customer interaction logs.
+### 📊 [SaaS Business Diagnostic](https://github.com/rohankar02/SaaS-Business-Diagnostic-SQL)
+**Strategic SQL | Window Functions | growth Analytics**
+* Deep-dive audit of subscription metrics (LTV/CAC) using advanced SQL (Window Functions, CTEs, Joins).
+* Identified **15% budget reallocation** opportunity based on channel-specific ROI analysis.
 
 ### 🔐 [Smart-Access-Control](https://github.com/rohankar02/Master-Control)
 **IoT | Python | SQL | Hardware**
