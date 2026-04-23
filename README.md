@@ -19,10 +19,10 @@ I specialize in building intelligent systems that bridge the gap between softwar
 *   Identified a **15% budget reallocation opportunity** by optimizing Marketing ROI across acquisition channels.
 *   Built a monthly **Cohort Retention Engine** to visualize and mitigate churn "leaky buckets".
 
-### 🛒 [E-Commerce Analytics & ML Dashboard](https://github.com/rohankar02/E-Commerce-Analytics)
-**Customer Segmentation | Data Engineering | Streamlit**
+### 🛒 [E-Commerce Sales Performance Dashboard](https://github.com/rohankar02/E-Commerce-Analytics)
+**Data Analysis | SQL Orchestration | Streamlit**
 *   Processed **400,000+ transaction records** using a performance-optimized SQLite & Python pipeline.
-*   Implemented **K-Means Clustering (RFM)** to identify high-value customer segments and targetable at-risk groups.
+*   Conducted a deep-dive analysis into **customer purchase history** to identify high-value tiers and seasonal trends.
 *   Deployed an **Interactive BI Dashboard** for real-time visualization of geographic sales and product performance.
 
 ### 🔐 [Smart-Access-Control (IoT)](https://github.com/rohankar02/Smart-Access-Control)
@@ -36,10 +36,11 @@ I specialize in building intelligent systems that bridge the gap between softwar
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python (Pandas, Scikit-learn, FastAPI), SQL (PostgreSQL, MySQL), C++ |
+| **Languages** | Python (Pandas, NumPy, FastAPI), SQL (PostgreSQL, MySQL), C++ |
 | **Data & BI** | Tableau, PowerBI, Plotly/Dash, Streamlit, ETL Pipelines |
 | **Infrastructure** | Git, Docker, AWS, Raspberry Pi, Arduino |
-| **Specialties** | Operations Research, Predictive Modeling, IoT Systems, Data Storytelling |
+| **Specialties** | Operations Research, Data Analysis, IoT Systems, Data Storytelling |
+
 
 ---
 
